@@ -1,0 +1,4 @@
+source,target,type
+1,2,RELATED_TO
+2,3,RELATED_TO
+3,1,RELATED_TO
